@@ -1,4 +1,4 @@
-package ru.geekbrains;
+package lesson3_xo;
 
 import java.util.Random;
 import java.util.Scanner;
